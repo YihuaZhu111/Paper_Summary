@@ -25,14 +25,14 @@
 
 # Approach
 
-![image-20220521212433328](/Users/darren/Documents/GitHub/image-20220521212433328.png)
+![image-20220521212433328](https://github.com/YihuaZhu111/Paper_summary_picture/blob/main/image-20220521212433328.png)
 
 
 
 * use **KCR method** (Jession Lin. 2020. Knowledge chosen by relations.) to select relation triples. 
-  * <img src="/Users/darren/Library/Application Support/typora-user-images/image-20220521213331606.png" alt="image-20220521213331606" style="zoom: 25%;" />
+  * <img src="https://github.com/YihuaZhu111/Paper_summary_picture/blob/main/image-20220521213331606.png" alt="image-20220521213331606" style="zoom: 25%;" />
 * **Reasoning** (attention_based framework)
-  * <img src="/Users/darren/Library/Application Support/typora-user-images/image-20220521213559319.png" alt="image-20220521213559319" style="zoom:25%;" />
+  * <img src="https://github.com/YihuaZhu111/Paper_summary_picture/blob/main/image-20220521213559319.png" alt="image-20220521213559319" style="zoom:25%;" />
 
 
 
@@ -42,8 +42,8 @@
   * CommonsenseQA (Commonsenseqa: A question answering challenge targeting commonsense knowledge)
   * OpenBookQA (Can a suit of armor conduct electric- ity? a new dataset for open book question answering)
 * **Result**
-  * <img src="/Users/darren/Library/Application Support/typora-user-images/image-20220521215128274.png" alt="image-20220521215128274" style="zoom:25%;" />
-  * <img src="/Users/darren/Library/Application Support/typora-user-images/image-20220521215241968.png" alt="image-20220521215241968" style="zoom:25%;" />
+  * <img src="https://github.com/YihuaZhu111/Paper_summary_picture/blob/main/image-20220521215128274.png" alt="image-20220521215128274" style="zoom:25%;" />
+  * <img src="https://github.com/YihuaZhu111/Paper_summary_picture/blob/main/image-20220521215241968.png" alt="image-20220521215241968" style="zoom:25%;" />
 
 
 
