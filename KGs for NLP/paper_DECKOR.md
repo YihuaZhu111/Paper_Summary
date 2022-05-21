@@ -30,11 +30,9 @@
 
 
 * use **KCR method** (Jession Lin. 2020. Knowledge chosen by relations.) to select relation triples. 
-  * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2gconkmoaj21hk0s6q8m.jpg" alt="image-20220521213331606" style="zoom: 25%;" />
+  * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2gconkmoaj21hk0s6q8m.jpg" alt="image-20220521213331606" style="zoom: 10%;" />
 * **Reasoning** (attention_based framework)
-  * 
-
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2gcorkx3sj20n20iewf6.jpg" alt="image-20220521213559319" style="zoom:25%;" />
+  * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2gcorkx3sj20n20iewf6.jpg" alt="image-20220521213559319" style="zoom:10%;" />
 
 
 
@@ -44,8 +42,8 @@
   * CommonsenseQA (Commonsenseqa: A question answering challenge targeting commonsense knowledge)
   * OpenBookQA (Can a suit of armor conduct electric- ity? a new dataset for open book question answering)
 * **Result**
-  * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2gcowi7hzj20u00wwq76.jpg" alt="image-20220521215128274" style="zoom:25%;" />
-  * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2gcp06bvzj219c0u078t.jpg" alt="image-20220521215241968" style="zoom:25%;" />
+  * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2gcowi7hzj20u00wwq76.jpg" alt="image-20220521215128274" style="zoom:10%;" />
+  * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2gcp06bvzj219c0u078t.jpg" alt="image-20220521215241968" style="zoom:10%;" />
 
 
 
