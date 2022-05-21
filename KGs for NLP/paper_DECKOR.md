@@ -30,9 +30,9 @@
 
 
 * use **KCR method** (Jession Lin. 2020. Knowledge chosen by relations.) to select relation triples. 
-  * <img src="https://github.com/YihuaZhu111/Paper_summary_picture/blob/main/image-20220521213331606.png" alt="image-20220521213331606" style="zoom: 25%;" />
+  * <img src="https://github.com/YihuaZhu111/Paper_summary_picture/blob/main/image-20220521213331606.png" alt="image-20220521213331606" style="zoom: 25%;"/>
 * **Reasoning** (attention_based framework)
-  * <img src="https://github.com/YihuaZhu111/Paper_summary_picture/blob/main/image-20220521213559319.png" alt="image-20220521213559319" style="zoom:25%;" />
+  * <img src="https://github.com/YihuaZhu111/Paper_summary_picture/blob/main/image-20220521213559319.png" alt="image-20220521213559319" style="zoom:25%;"/>
 
 
 
