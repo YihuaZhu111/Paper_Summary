@@ -48,9 +48,9 @@
     * WebRED
     * FewRel
 * **Results**
-  * ![image-20220522172750583](https://tva1.sinaimg.cn/large/e6c9d24egy1h2h9hatg9pj20u010yq82.jpg)
+  * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2h9hatg9pj20u010yq82.jpg" width="40%">
 * **Analysis**
-  * Results over the Incomplete KB: ![image-20220522190012539](https://tva1.sinaimg.cn/large/e6c9d24egy1h2hc5f6kksj20u00yl42r.jpg)
+  * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2hc5f6kksj20u00yl42r.jpg" width="40%">
 
 
 
@@ -58,7 +58,7 @@
 
 * can the LM substitute the large textual information???
 * the method for solving incomplete KG problems is useful.
-  * ![image-20220522190634569](https://tva1.sinaimg.cn/large/e6c9d24egy1h2hcc1lzzyj21xc0k87a0.jpg)
+  * ![image-20220522190634569](https://tva1.sinaimg.cn/large/e6c9d24egy1h2hcfybdm5j21xc0k8jx4.jpg)
 
 
 
