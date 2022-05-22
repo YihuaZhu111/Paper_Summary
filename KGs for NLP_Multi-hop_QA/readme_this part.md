@@ -10,3 +10,6 @@
 * MHGRN
     * Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering
     * https://arxiv.org/abs/2005.00646
+* LSRL
+    * Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models
+    * https://aclanthology.org/2021.emnlp-main.296/
