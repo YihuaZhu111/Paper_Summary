@@ -42,13 +42,13 @@
   * Conceptnet (https://conceptnet.io)
 * **Results:**
   * Performance comparison on CommonsenseQA in-house split:
-    * ![image-20220522150519693](https://tva1.sinaimg.cn/large/e6c9d24egy1h2h5d31wetj22gd0u0wq3.jpg)
+    * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2h5d31wetj22gd0u0wq3.jpg" width="100%">
   * Performance comparison on official test of CommonsenseQA:
-    * ![image-20220522150616097](https://tva1.sinaimg.cn/large/e6c9d24egy1h2h5dz80g9j20wh0u0q7s.jpg)
+    * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2h5dz80g9j20wh0u0q7s.jpg" width="50%">
   * OpenBookQA:
-    * ![image-20220522150721734](https://tva1.sinaimg.cn/large/e6c9d24egy1h2h5f5fqvlj212k0u0jwq.jpg)
+    * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2h5f5fqvlj212k0u0jwq.jpg" width="50%">
   * Case study:
-    * ![image-20220522151024797](https://tva1.sinaimg.cn/large/e6c9d24egy1h2h5rnf55bj21gy0t6n3n.jpg)
+    * <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h2h5rnf55bj21gy0t6n3n.jpg" width="60%">
 
 
 
