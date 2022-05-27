@@ -102,8 +102,8 @@
 
     * use Quaternion:
 
-      * $$
-        Q= a+bi+cj+dk
+      *  $$
+        Q=a+bi+cj+dk
         $$
 
     * 
