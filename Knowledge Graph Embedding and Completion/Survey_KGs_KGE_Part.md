@@ -378,6 +378,7 @@
 * if we can, we need to use extention auxiliary information to enhance the KGE, especially for large textual information.
 * In conclusion, I need to find some paper about KGE recently, grasp the detail about the KGE，and undderstand the benchmark and how to evaluate the KGE from the experiments.
 * a good KGE, and a suitbale representation space, encoding model can help us to do NLP task which need to use KG and Graph Structure.
+* ![image](https://tva1.sinaimg.cn/large/e6c9d24egy1h2natr6sx1j20u00vjq9h.jpg)
 
 
 
